@@ -1,0 +1,5 @@
+version="1.37.*.*"
+name="unkMod2"
+supported_version="v1.37.*.*"
+path="/home/unk/.local/share/Paradox Interactive/Europa Universalis IV/mod/unkMod2"
+remote_file_id="3527962335"
